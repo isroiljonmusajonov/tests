@@ -1,3 +1,3 @@
 # tests
 Bu yerga test uchun yozdim
-## Bu sinov Mkdawon
+## Bu sinov Markdown
